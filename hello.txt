@@ -1,4 +1,7 @@
 hi this is my first file
 hi this is my second file
+<<<<<<< HEAD
 hi this is my third file
 HI MOHIT
+=======
+>>>>>>> parent of 749264f... third file added
